@@ -70,7 +70,7 @@ En el análisis de circuitos, en ocasiones es útil convertir una fuente de volt
 
 A) R1 y R4 están en serie con la combinación en paralelo de R2 y R3.
 
-B)R1 está en serie con la combinación en paralelo de R2, R3 y R4.
+B) R1 está en serie con la combinación en paralelo de R2, R3 y R4.
 
 C) La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1.
 
@@ -90,11 +90,11 @@ C) La combinación en paralelo de R2 y R3 está en serie con la combinación en 
 
 **(b)** 779 Ω 
 
-**(c) **852 Ω
+**(c)** 852 Ω
 
 ***(11)*** Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
 
-**A)	**I1 = I4 = 11.3 mA, I2 = I3 = 5.64 mA,
+**A)** I1 = I4 = 11.3 mA, I2 = I3 = 5.64 mA,
 
 V1 = 633 mV
 
@@ -102,7 +102,7 @@ V2 = V3 = 564 mV
 
 V4 = 305 mV
 
-**B)	**I1 = 3.85 mA, I2 = 563 mA
+**B)** I1 = 3.85 mA, I2 = 563 mA
 
 I3 = 1.16 mA, I4 = 2.13 mA
 
@@ -110,7 +110,7 @@ V1 = 2.62 V
 
 V2 = V3 = V4 = 383 mV
 
-**C)	**I1 = 5 mA, I2 = 303 mA
+**C)** I1 = 5 mA, I2 = 303 mA
 
 I3 = 568 mA, I4 = 313 mA
 
@@ -132,7 +132,7 @@ SW1 abierto, SW2 abierto: 320 Æ
 
 SW1 abierto, SW2 cerrado: 300 Æ
 
-***(15)* **Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67
+***(15)*** Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67
 
 VA=100 V
 
@@ -142,7 +142,7 @@ VC=15.7 V
 
 VD=7.87 V
 
-***(17)* **En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+***(17)*** En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
 [![6.png](https://i.postimg.cc/wBQ4nNvN/6.png)](https://postimg.cc/Y4jxWhQ2)
 
@@ -267,7 +267,7 @@ I=6 A
 
 IS = 6 A, RS = 50 Ω
 
-***(3) ***Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+***(3)*** Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 R=V/(I )
 
@@ -371,8 +371,8 @@ RTH = 88.6 Æ, VTH = 1.09 V
 ***(23)*** Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
 **a)** IN = 110 mA, RN = 76.7 Ω
-**
-b)** IN = 11.1 mA, RN = 73 Ω
+
+**b)** IN = 11.1 mA, RN = 73 Ω
 
 **c)** IN = 50 mA, RN = 35.9 k Ω
 
