@@ -255,6 +255,163 @@ El resistor de 3.3 kÆ (R4) está abierto.
 
 **4.2. Ejercicios del Capítulo 8**
 
+***(1)*** Una fuente de voltaje tiene los valores VS = 300 V y RS = 50Ω. Conviértala en una fuente de corriente equivalente.
+
+[![1.png](https://i.postimg.cc/VNj7yC7w/1.png)](https://postimg.cc/kVgNKB3Y)
+
+I=V/R  
+
+I=(300 V)/(50 Ω )
+
+I=6 A 
+
+IS = 6 A, RS = 50 Ω
+
+***(3) ***Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+R=V/(I )
+
+R=(1.6 V)/(8 A )
+
+R=0.2 Ω
+
+R=200mΩ
+
+***(5)*** Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k Ω . Conviértala en una fuente de voltaje equivalente.
+
+[![2.png](https://i.postimg.cc/pXwY2d5L/2.png)](https://postimg.cc/GHjsKdjW)
+
+***(7)*** Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+[![3.png](https://i.postimg.cc/ht0rpBh4/3.png)](https://postimg.cc/RWNKZ2c2)
+
+845 uA
+
+***(9)*** Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+
+[![4.png](https://i.postimg.cc/sgKY540v/4.png)](https://postimg.cc/0zMKsDvs)
+
+Reemplazando la fuente de corriente de 100 mA tenemos un nuevo circuito:
+
+[![5.png](https://i.postimg.cc/vmcVfFVN/5.png)](https://postimg.cc/McJHJLt7)
+
+Utilizando método de las mallas tenemos las siguientes ecuaciones:
+680I_1+220(I_1-I_2 )+20=0
+
+220(I_2-I_1 )+300I_2+470I_2+20=0
+
+La solución al sistema de ecuación es:
+
+I_1=- 0.0184 A
+
+I_2=0.01563 A=15.6 mA 
+
+Ahora haremos un segundo análisis reemplazando la fuente de voltaje de 20V, y tenemos:
+
+[![6.png](https://i.postimg.cc/ZncRXVNN/6.png)](https://postimg.cc/H8rdy0BW)
+
+I_1=0.1 A
+
+680(I_2-0.1)+220(I_2-I_3 )=0
+
+220(I_3-I_2 )+330I_3+470I_3=0
+
+La solución al sistema de ecuaciones es:
+
+I_2=0.0798 A
+
+I_3=0.172 A=17.2 mA
+
+Finalmente restamos las corrientes obtenidas que pasan por R3:
+
+I_R3=17.2 mA-15.6 mA
+
+I_R3=1.6 mA
+
+***(11)*** En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kA, ¿cuál es el intervalo del voltaje de referencia?
+
+[![7.png](https://i.postimg.cc/7hxP10RZ/7.png)](https://postimg.cc/ZBMh4BZG)
+
+Vmáx =3.72 V; Vmín =1.32 V
+
+***(13)*** Determine el voltaje del punto A al punto B en la figura 8-73.
+
+[![8.png](https://i.postimg.cc/CKGVvdkB/8.png)](https://postimg.cc/B8nybSh4)
+
+90.7 V
+
+***(15)*** La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+[![9.png](https://i.postimg.cc/qqCwL66W/9.png)](https://postimg.cc/T5fn2w9c)
+
+[![10.png](https://i.postimg.cc/ryB2LSj0/10.png)](https://postimg.cc/vDtNrxpb)
+
+[![11.png](https://i.postimg.cc/DzjRpsmz/11.png)](https://postimg.cc/nsmdCX48)
+
+[![12.png](https://i.postimg.cc/TwBFf6VM/12.png)](https://postimg.cc/R6QXL2pX)
+
+IS1 = 2.28 mA, IS2 = 1.35 mA
+
+***(17)*** Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
+
+[![13.png](https://i.postimg.cc/zGpQ3WCk/13.png)](https://postimg.cc/9DRbnDN4)
+
+116 mA
+
+***(19)*** Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+[![14.png](https://i.postimg.cc/1zfvtd59/14.png)](https://postimg.cc/hJRLZpdw)
+
+RTH = 88.6 Æ, VTH = 1.09 V
+
+***(21)*** Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+[![15.png](https://i.postimg.cc/QxhS5CxY/15.png)](https://postimg.cc/qgD8HkK2)
+
+***(23)*** Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+**a)** IN = 110 mA, RN = 76.7 Ω
+**
+b)** IN = 11.1 mA, RN = 73 Ω
+
+**c)** IN = 50 mA, RN = 35.9 k Ω
+
+**d)** IN = 68.8 mA, RN = 1.3 k Ω
+
+***(25)*** Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+17.9 V
+
+***(27)*** Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+
+IN = 953 uA, RN = 1175 Ω
+
+***(29)*** Aplique el teorema de Norton al circuito de la figura 8-84. 
+
+[![16.png](https://i.postimg.cc/Mp4yspqS/16.png)](https://postimg.cc/753GhD5s)
+
+IN = -48.2 mA, RN = 56.9 Ω
+
+***(31)*** En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+[![17.png](https://i.postimg.cc/8zrFzBQ2/17.png)](https://postimg.cc/nXpVdmL2)
+
+11.1 Æ
+
+***(33)*** ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87? 
+
+RTH = 48 Ω, R4 = 160 Ω
+
+***(35)*** En la figura 8-89, convierta cada red Y en una red delta.
+
+[![18.png](https://i.postimg.cc/zvsrthth/18.png)](https://postimg.cc/m1yJhPGZ)
+
+[![19.png](https://i.postimg.cc/rwLT5StX/19.png)](https://postimg.cc/Vd4280RD)
+
+**a)** RA = 39.8 Ω, RB = 73 Ω, RC = 48.7 Ω
+
+**b)** RA = 21.2 k Ω, RB = 10.3 k Ω, RC = 14.9 k Ω
+
 **5. Video**
 
 https://www.youtube.com/watch?v=Ygx2dQIwe7Q
