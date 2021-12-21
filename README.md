@@ -34,4 +34,22 @@ en serie y en paralelo.
 
 [![Tipo-de-Circuitos.png](https://i.postimg.cc/1XZpRvvt/Tipo-de-Circuitos.png)](https://postimg.cc/ftB3Bfnn)
 
+**3.1.3. Localización de fallas**
+
+la localización de fallas es el proceso de identificar y localizar una falla o un problema en un circuito eléctrico. Algunas técnicas de localización de fallas y la aplicación de razonamiento lógico ya se analizaron en relación tanto con circuitos en serie como con circuitos en paralelo. Una premisa básica de la localización de fallas es que se debe saber qué buscar antes de poder localizar con éxito una falla en un circuito.
+
+**3.2. Capítulo 8: Teorema de Circuitos y Conversiones**
+
+**3.2.1. Fuentes**
+
+[![Fuentes.png](https://i.postimg.cc/nLW4gvgd/Fuentes.png)](https://postimg.cc/cKQt88sY)
+
+**3.2.2. Conversión de Fuentes**
+
+En el análisis de circuitos, en ocasiones es útil convertir una fuente de voltaje en una fuente de corriente equivalente, o viceversa.
+
+
+
+
+
 
