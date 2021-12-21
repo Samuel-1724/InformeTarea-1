@@ -48,8 +48,42 @@ la localización de fallas es el proceso de identificar y localizar una falla o 
 
 En el análisis de circuitos, en ocasiones es útil convertir una fuente de voltaje en una fuente de corriente equivalente, o viceversa.
 
+**3.2.3. Teoremas**
 
+[![Teoremas.png](https://i.postimg.cc/qvHLwXy4/Teoremas.png)](https://postimg.cc/1fMw5Fvj)
 
+**4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA**
+
+**4.1. Ejercicios del Capítulo 7**
+
+**4.2. Ejercicios del Capítulo 8**
+
+**5. Video**
+
+https://www.youtube.com/watch?v=Ygx2dQIwe7Q
+
+**6. CONCLUSIONES**
+
+Hemos visto los temas del capítulo 7 y 8 donde pudimos ver la union de un crcuio en serie y paralelo, entrando en los llamados circuitos complejos. Analizamos sus características y cómo funcionan sus voltajes, corrientes y resistencia, notando así que existe una variedad notable en la forma de implementar estos. De igual manera reconocimos que en los circuitos complejos podemos implementar todos esos métodos ya vistos en capítulos pasados, como son las leyes de Ohm, Kirchhof, mallas y nodos. 
+
+Conocimos nuevos métodos y teoremas que nos pueden ayudar a resolver estos circuitos. Estos son varios pero los más usados son el teorema de Superposición y Thevenin. Teoremas que nos ayudaran a resolver los circuitos y a simplificarlos para que se vuelvan circuitos sencillos y de esta forma poder desarrolarlos. 
+
+También hemos desarrollado los ejercicios propuestos en cada capítulo para de esta manera tener una mejor razón de los conceptos aprendidos en esta tarea. 
+
+**7. BIBLIOGRAFÍA**
+
+Andarro, L. (12 de Septiembre de 2010). FiscaLab. Obtenido de https://www.fisicalab.com/apartado/conversion-de-unidades
+
+Díaz, L. (23 de Octubre de 2017). Iberbrola. Obtenido de 
+https://www.iberdrola.es/blog/luz/que-es-voltaje-electrico-como-medirlo
+
+Floyd. (2008). Fundamentos de Circuitos. Madrid: Ed4.
+
+Green, T. (3 de Febebro de 2018). GreenFacts. Obtenido de https://www.greenfacts.org/es/glosario/abc/corriente.htm
+
+Lopin, J. (30 de Julio de 2012). Matesfacil. Obtenido de https://www.matesfacil.com/ESO/numeros/notacion_cientifica/teoria-ejemplos-numeros-decimales-exponente-positivo-negativo-base-10-test.html
+
+Parra, J. (12 de Abril de 2013). Concepto. Obtenido de https://concepto.de/resistencia/
 
 
 
