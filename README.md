@@ -56,6 +56,203 @@ En el análisis de circuitos, en ocasiones es útil convertir una fuente de volt
 
 **4.1. Ejercicios del Capítulo 7**
 
+***(1)*** Visualice y trace las siguientes combinaciones en serie-paralelo:
+
+**(a)** R1 en serie con la combinación en paralelo de R2 y R3
+
+**(b)** R1 en paralelo con la combinación en serie de R2 y R3
+
+**(c)** R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+
+[![1.png](https://i.postimg.cc/q7RZfSHc/1.png)](https://postimg.cc/DS9cLCZm)
+
+***(3)*** En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+
+A) R1 y R4 están en serie con la combinación en paralelo de R2 y R3.
+
+B)R1 está en serie con la combinación en paralelo de R2, R3 y R4.
+
+C) La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1.
+
+***(5)*** Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
+
+[![2.png](https://i.postimg.cc/G2MLLZ4c/2.png)](https://postimg.cc/xJzDgpG7)
+
+[![3.png](https://i.postimg.cc/ZRfdGsZN/3.png)](https://postimg.cc/vgVT9z48)
+
+***(7)*** Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta
+
+[![4.png](https://i.postimg.cc/Hnyw1G2N/4.png)](https://postimg.cc/T5TLn4Bj)
+
+***(9)*** Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
+
+**(a)** 133 Ω 
+
+**(b)** 779 Ω 
+
+**(c) **852 Ω
+
+***(11)*** Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
+
+**A)	**I1 = I4 = 11.3 mA, I2 = I3 = 5.64 mA,
+
+V1 = 633 mV
+
+V2 = V3 = 564 mV
+
+V4 = 305 mV
+
+**B)	**I1 = 3.85 mA, I2 = 563 mA
+
+I3 = 1.16 mA, I4 = 2.13 mA
+
+V1 = 2.62 V
+
+V2 = V3 = V4 = 383 mV
+
+**C)	**I1 = 5 mA, I2 = 303 mA
+
+I3 = 568 mA, I4 = 313 mA
+
+I5 = 558 mA, V1 = 5 V
+
+V2 = V3 = 1.88 V
+
+V4 = V5 = 3.13 V
+
+***(13)*** Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+
+[![5.png](https://i.postimg.cc/L56cxT3h/5.png)](https://postimg.cc/WFCY30KP)
+
+SW1 cerrado, SW2 abierto: 220 Æ
+
+SW1 cerrado, SW2 cerrado: 200 Æ
+
+SW1 abierto, SW2 abierto: 320 Æ
+
+SW1 abierto, SW2 cerrado: 300 Æ
+
+***(15)* **Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67
+
+VA=100 V
+
+VB=61.5V
+
+VC=15.7 V
+
+VD=7.87 V
+
+***(17)* **En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+
+[![6.png](https://i.postimg.cc/wBQ4nNvN/6.png)](https://postimg.cc/Y4jxWhQ2)
+
+Medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La diferencia es VR2
+
+***(19)*** Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje
+
+303 kÆ
+
+***(21)*** (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
+
+[![7.png](https://i.postimg.cc/4xbrRq2n/7.png)](https://postimg.cc/0zjtpWsq)
+
+A)	100 KΩ		 B)110 Mw
+
+***(23)*** Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.
+
+[![8.png](https://i.postimg.cc/bN06ZbxB/8.png)](https://postimg.cc/0bQG3zHY)
+
+RAB = 1.32 kÆ
+
+RBC = 1.32 kÆ
+
+RCD = 0 Æ
+
+***(25)*** Un divisor de voltaje está compuesto por dos resistores de 56 kA y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1?0 MA a la salida?
+
+7.5 V sin carga, 7.29 V con carga
+
+***(27)*** ¿Cuál de dos cargas, una de 10 kA y otra de 47 kA, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+47 kΩ
+
+***(29)*** En la figura 7-74, determine el voltaje de salida con una carga de 33 kA conectada entre A y B.
+
+8.77 V
+
+***(31)*** Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:
+
+la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kA a cada toma, una a la vez.
+
+R1 = 1000 Æ; R2 = R3 = 500 Æ;
+
+Toma inferior cargada: Vinferior _ 1.82 V, Vsuperior _ 4.55 V
+
+Toma superior cargada: Vinferior _ 1.67 V, Vsuperior _ 3.33 V
+
+***(33)*** La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+
+(a)	Encuentre VG y VS (b) Determine I1, I2, ID, e IS (c) Encuentre VDS y VDG
+VG = 1.75 V, VS = 3.25 V
+
+b) I1 = I2 = 6.48 mA, ID = IS = 2.17 mA
+
+c) VDS = 2.55 V, VDG = 4.05 V
+
+***(35)*** ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito? (a)	1 V (b) 10 V (c) 100 V (d) 1000 V
+
+1000 V
+
+***(37)*** El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura7-62(a).
+
+(a) ¿Qué intervalo se deberá utilizar?
+
+(b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+(a) intervalo de 0.5 (b) Aproximadamente 1 mV
+
+***(39)*** Para el circuito mostrado en la figura 7-77, calcule:
+
+**(a)** La resistencia total entre las terminales de la fuente 
+
+**(b)** La corriente total suministrada por la fuente
+
+**(a)	(c)** La corriente a través del resistor de 910 A (d) El voltaje desde el punto A hasta el punto B
+
+***(41)*** Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo,
+
+(b)	calcule la corriente en cada rama con 10 V entre A y B.
+
+***(43)*** Determine IT y VSALIDA en la figura 7-80.
+
+[![9.png](https://i.postimg.cc/C5sQpfJX/9.png)](https://postimg.cc/5Qj3wyhS)
+
+***(45)*** Repita el problema 44 para las siguientes condiciones 
+
+**(a)** SW3 y SW4 conectados a _12 V, SW1 y SW2 a tierra 9	V 
+
+**(b)** SW3 y SW1 conectados a _12 V, SW2 y SW4 a tierra 3.75 V
+
+**(c)** Todos los interruptores conectados a _12 V, 11.25 V
+
+***(47)*** Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 A para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mA, a 120,060 A, y los medidores a compresión disminuyen su resistencia en 60 mA, a 119.940 A, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+6 mV (lado derecho positivo con respecto al izquierdo)
+
+***(49)*** ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+No, deberá ser de 4.39 V.
+
+***(51)*** En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla. 
+
+[![10.png](https://i.postimg.cc/PJJwTgMH/10.png)](https://postimg.cc/dZM19SXN)
+
+El resistor de 2.2 kÆ (R3) está abierto
+
+***(53)*** Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+El resistor de 3.3 kÆ (R4) está abierto.
+
 **4.2. Ejercicios del Capítulo 8**
 
 **5. Video**
