@@ -1,4 +1,4 @@
-# InformeTarea-1
+# InformeTarea4
 **1. TEMA**
 
 Informe de Tarea 1: Circuitos en Serie-Paralelo; Teorema de Circuitos y Conversiones.
